@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Suraj Mohite - DevOps & Cloud Engineer Portfolio
 
@@ -205,3 +206,7 @@ This project is a fork of [Ashlok Chaudhary](https://github.com/ashlok2003)'s po
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+=======
+# modern-portfolio
+modern-portfolio
+>>>>>>> 5c76177b57432e488790521bb65e0667d8f3b0e3
