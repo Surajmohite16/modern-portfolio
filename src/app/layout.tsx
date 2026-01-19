@@ -93,7 +93,7 @@ export default function RootLayout({
     '@context': 'https://schema.org',
     '@type': 'Person',
     name: 'Suraj Mohite',
-    jobTitle: 'DevOps & Cloud Engineer',
+    jobTitle: 'Senior Cloud Engineer',
     description: 'Experienced DevOps and Cloud Engineer specializing in AWS, Kubernetes, Docker, and CI/CD automation',
     url: 'https://hasan-ashab.vercel.app',
     image: 'https://hasan-ashab.vercel.app/profile-pic.jpg',
